@@ -44,34 +44,10 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
         }
       }
     }
-
-
-
   }
 }
-
-
 ?>
-
-
-
-
-
-
-
 <?php include "basic.php"?>
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="container mt-4">
 <form action="" method='post' >
   <div class="row mb-3">
